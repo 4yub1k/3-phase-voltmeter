@@ -1,7 +1,7 @@
 # Measure 3 Phase Voltages Using Arduino - Proteus Simulation
 Detailed article about the project : [Project](https://medium.com/@4yub1k/measure-3-phase-voltages-using-arduino-proteus-simulation-cce1988f5547)
 
-**NOTE:** Source code is at the end of article!.
+**NOTE:** Source code is also available at the end of article!.
 ### Contents:
 - [Final Result.](https://medium.com/@4yub1k/measure-3-phase-voltages-using-arduino-proteus-simulation-cce1988f5547#b2cc)
 - [Working.](https://medium.com/@4yub1k/measure-3-phase-voltages-using-arduino-proteus-simulation-cce1988f5547#59a5)
